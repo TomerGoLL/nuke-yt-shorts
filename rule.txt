@@ -1,0 +1,9 @@
+! Hide Shorts shelf on Homepage
+youtube.com##ytd-rich-section-renderer:has(#title-text:has-text(Shorts))
+
+! Hide Shorts tab in navigation sidebar
+youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+youtube.com##ytd-mini-guide-entry-renderer:has-text(Shorts)
+
+! Hide Shorts from search results
+youtube.com##ytd-reel-shelf-renderer
