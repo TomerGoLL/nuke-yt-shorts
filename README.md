@@ -2,5 +2,5 @@
 - install the ublock origin extention
 - open it
 - click the gears icon on the buttom right
-- go the my filters and paste the rule
+- go to my filters and paste the rule
 - click apply
